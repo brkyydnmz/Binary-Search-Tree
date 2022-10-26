@@ -5,12 +5,12 @@
 
 If it is greater than the number in the point, it moves to the right, if it is less, to the left.
 
-       7
-      / \
-     5   8
-    / \    \
-   1   6    9
-  / \
- 0   3
-     / \
-    2    4     
+              7
+             / \
+            5   8
+           / \    \
+          1   6    9
+         / \
+        0   3
+           / \
+          2   4     
