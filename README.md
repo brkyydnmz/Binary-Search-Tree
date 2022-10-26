@@ -5,7 +5,7 @@
 
 If it is greater than the number in the point, it moves to the right, if it is less, to the left.
 
-        7
+       7
       / \
      5   8
     / \    \
